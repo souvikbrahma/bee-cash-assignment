@@ -13,7 +13,7 @@
     "@react-native-community/async-storage": "^1.6.2",
     "lodash": "^4.17.15",
     "react": "16.9.0",
-    "react-native": "0.61.3",
+    "react-native": "0.62.3",
     "react-native-action-button": "^2.8.5",
     "react-native-gesture-handler": "^1.5.0",
     "react-native-gridview": "^0.1.2",
